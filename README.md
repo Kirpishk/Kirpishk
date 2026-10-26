@@ -4,11 +4,6 @@
 
 [Проекты](#проекты) · [Связаться](#связаться)
 
-## Проекты
-
-- [Mood_bot](https://github.com/Kirpishk/Mood_bot) — личный дневник настроения в Telegram.
-- [smartprice-tracker](https://github.com/Kirpishk/smartprice-tracker) — отслеживание цен.
-
 ## Связаться
 
 [Telegram](https://t.me/tacituw) · [Instagram](https://www.instagram.com/tacituw_/)
