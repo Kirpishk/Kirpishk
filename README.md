@@ -1,16 +1,22 @@
-## Hi there 👋
+# Kirpishk
 
-<!--
-**Kirpishk/Kirpishk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Небольшие проекты, эксперименты и идеи, собранные в коде.
 
-Here are some ideas to get you started:
+[Проекты](#проекты) · [Связаться](#связаться)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+- [Mood_bot](https://github.com/Kirpishk/Mood_bot) — личный дневник настроения в Telegram.
+- [smartprice-tracker](https://github.com/Kirpishk/smartprice-tracker) — отслеживание цен.
+
+## Связаться
+
+[Telegram](https://t.me/tacituw) · [Instagram](https://www.instagram.com/tacituw_/)
+
+## Вклад
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kirpishk/Kirpishk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kirpishk/Kirpishk/output/github-snake.svg" />
+  <img alt="Анимация вкладов GitHub в виде змейки" src="https://raw.githubusercontent.com/Kirpishk/Kirpishk/output/github-snake.svg" />
+</picture>
